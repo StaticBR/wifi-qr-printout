@@ -1,10 +1,10 @@
 # Wi-Fi QR Code Printout
 
-A single HTML page that turns a Wi-Fi network name and password into a printable QR code sign. Guests scan it with their phone camera and connect automatically.
+A [single HTML page](https://staticbr.github.io/wifi-qr-printout/) that turns a Wi-Fi network name and password into a printable QR code sign. Guests scan it with their phone camera and connect automatically.
 
 ## Usage
 
-1. Open `index.html` in any browser.
+1. Open [https://staticbr.github.io/wifi-qr-printout/](https://staticbr.github.io/wifi-qr-printout/) in any browser.
 2. Enter the network name, password and security type.
 3. Adjust the headline, subtitle and footer text if you like.
 4. Click **Print**.
@@ -14,7 +14,7 @@ A single HTML page that turns a Wi-Fi network name and password into a printable
 All fields can be prefilled via the URL, e.g. to bookmark or share a ready-made sign:
 
 ```
-index.html?ssid=MyHomeWiFi&password=secret123&title=Welcome!&footer=Enjoy%20your%20stay
+https://staticbr.github.io/wifi-qr-printout/?ssid=MyHomeWiFi&password=secret123&title=Welcome!&footer=Enjoy%20your%20stay
 ```
 
 | Parameter      | Values                       | Default            |
