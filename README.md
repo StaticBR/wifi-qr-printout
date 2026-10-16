@@ -39,7 +39,7 @@ Note: a password in a URL ends up in browser history and, if hosted, in server l
 
 - Supports WPA/WPA2/WPA3, WEP, open and hidden networks
 - Print-ready A4 layout
-- Customizable text, with options to show or hide the network name, password and icon
+- Customizable text, with options to show or hide the network name, password and icon 
 - Readable font for passwords that keeps `0`/`O` and `1`/`l`/`I` distinct
 - Fully self-contained: no external requests, works offline, nothing is stored or uploaded
 
